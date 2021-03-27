@@ -6,5 +6,4 @@ Run Code Online
 
 ### Simple Method
 
-[![Run on Repl.it](https://replit.com/@HackWithParesh/HackWithParesh#Zee5.py)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
-
+[Run on Repl.it](https://replit.com/@HackWithParesh/HackWithParesh#Zee5.py)
