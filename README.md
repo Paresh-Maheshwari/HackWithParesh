@@ -6,4 +6,4 @@ Run Code Online
 
 ### Simple Method
 
-[![Run on Repl.it](https://replit.com/@HackWithParesh/HackWithParesh#Zee5.py)]
+[Run on Repl.it](https://replit.com/@HackWithParesh/HackWithParesh#Zee5.py)
