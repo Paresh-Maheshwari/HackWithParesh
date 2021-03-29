@@ -49,7 +49,7 @@ response.json()
 
 
 for i in response_dict:
-    print(" \n ", i, "val: ", response_dict[i])
+    print(" \n ", i, ": ", response_dict[i])
     
 print('''
 
